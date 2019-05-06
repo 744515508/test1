@@ -11,3 +11,7 @@ GitHub新建文件 create new file -->aaa -->编辑-->上传
 show view -->other --> git staging
 ---------------------------------------------
 切换工作空间D:\javaruanjian\GitHupcangku\test
+----------------------------------------------
+下载文件
+打开git repositories 视图
+选择项目test 右键 pull
