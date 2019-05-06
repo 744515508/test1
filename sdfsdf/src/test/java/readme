@@ -1,0 +1,13 @@
+新建项目test
+打开test -->readme.md-->cloneordownload
+打开springtool showview  -->git repository-->ctrl+v
+ --> 路径空的文件夹下放文件-->D:\javaruanjian\GitHupcangku\test
+测试
+新建项目testgithup
+切换工作空间D:\javaruanjian\GitHupcangku\test
+GitHub新建文件 create new file -->aaa -->编辑-->上传
+--------------------------------------------
+右键项目 --> Team --> commit --> ++ --> 填写Commit Message --> Commit and push
+show view -->other --> git staging
+---------------------------------------------
+切换工作空间D:\javaruanjian\GitHupcangku\test
